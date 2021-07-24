@@ -1,0 +1,11 @@
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.csprojAssemblyReference.cache
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.Vista.frmCotizaciones.resources
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.Form1.resources
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.Properties.Resources.resources
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.csproj.GenerateResource.cache
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.csproj.CoreCompileInputs.cache
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\bin\Debug\quark_academy.exe.config
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\bin\Debug\quark_academy.exe
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\bin\Debug\quark_academy.pdb
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.exe
+C:\Users\Afema sa\Desktop\examen\quark_academy\quark_academy\obj\Debug\quark_academy.pdb
