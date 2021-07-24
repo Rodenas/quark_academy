@@ -1,5 +1,7 @@
 # quark_academy
 
+Para ejecutar el programa abra el archivo "quark_academy.exe"
+
 Por favor, especifica tu nombre completo: Gabriel Elías Rodenas
 ¿C# permite herencia múltiple?
 No
